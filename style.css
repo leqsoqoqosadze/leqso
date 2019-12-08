@@ -1,0 +1,33 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  font-family: arial;
+  box-sizing: border-box
+}
+/* top-menu-section start---------------------------- */
+.top-menu-section{
+  height:45px;
+  width:100%;
+  background-color:#333333; 
+}
+.container{
+  margin:auto;
+  width:80%;
+  justify-content: center;
+  display:flex;
+  align-items: center;
+}
+.top-menu{
+  width: 1173px;
+  height: 45px;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  background-color:#333333; 
+}
+.currency{
+  width: 120px;
+  height: 45px;
+  background-color:#fd0000;
+  align-items: center;
+}
